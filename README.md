@@ -30,8 +30,7 @@ Focused on cybersecurity with practical experience in building and experimenting
 ---
 
 ## 🚀 Projects
-
-### 🌑 Zero-Trace
+### 🌑CoreSanitize 
 A privacy-focused tool built and tested in a controlled environment.
 
 - Applies encryption practices (GPG)  
